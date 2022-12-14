@@ -1,0 +1,1 @@
+Explanation of the expectation maximization algorithm with a Gaussian Mixture Model as an example.
